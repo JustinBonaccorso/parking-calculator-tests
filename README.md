@@ -2,7 +2,7 @@
 Selenium Tests written in JAVA to test the parking calculator
 
 Test Cases are written in Java and uploaded independently. 
-A testing suite was also in the works, but I resisted due to the nature of Test Case #2 and the 'excitment' that it provided.
+A testing suite was also in the works, but I resisted due to the nature of Test Case #2 and the 'excitement' that it provided.
 As these tests are relatively straight forward I attempted to make the testing reflect the basic nature of the requirements.
 While writing my test cases I attempted to account for each different Parking option, as well as an unusual duration. 
 In creating these I mainly utilized: Selenium IDE/WebDriver, XCode, Firefox, FireBug, GitHub, Eclipse
